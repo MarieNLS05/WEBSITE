@@ -2846,10 +2846,10 @@ textarea.form-control-lg {
 
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #f4623a;
+  --bs-btn-bg: #f0c96c;
   --bs-btn-border-color: #f4623a;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #cf5331;
+  --bs-btn-hover-bg: #7b6633;
   --bs-btn-hover-border-color: #c34e2e;
   --bs-btn-focus-shadow-rgb: 246, 122, 88;
   --bs-btn-active-color: #fff;
@@ -10856,7 +10856,7 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
-  background-color: #f4623a;
+  background-color: #f0c96c;
   opacity: 1;
 }
 
